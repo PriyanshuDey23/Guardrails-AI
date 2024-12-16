@@ -1,0 +1,4 @@
+alt-profanity-check # experimentalion of giardrail
+google-generativeai
+guardrails-ai
+python-dotenv
